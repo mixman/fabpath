@@ -1,0 +1,3 @@
+
+class Implementation(object):
+    pass
